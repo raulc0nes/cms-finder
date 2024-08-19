@@ -47,5 +47,4 @@
 /serendipity_admin.php
 /admin/index.php
 /pg/login
-/textpattern/index.php
 /src/login.php
