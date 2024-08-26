@@ -14,5 +14,4 @@ d6e5658badaed45906497c37ee59502dbec22575d420da51c827065c6845b69f  README.txt
 ## errores ssl desactivados por defecto para una bonita visualización y veloces resultados.
 ## banderas "--errores" y "--debug" para mayor información.
 
-@raulc0nes
-#OpenAI
+#coded through OpenAI by @raulc0nes
